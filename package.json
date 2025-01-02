@@ -1,6 +1,6 @@
 {
   "name": "@trustvc/trustvc",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "TrustVC library",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -111,7 +111,7 @@
   "dependencies": {
     "@tradetrust-tt/dnsprove": "^2.16.0",
     "@tradetrust-tt/token-registry-v4": "npm:@tradetrust-tt/token-registry@^4.15.0",
-    "@tradetrust-tt/token-registry-v5": "npm:@tradetrust-tt/token-registry@^5.1.0",
+    "@tradetrust-tt/token-registry-v5": "https://github.com/ShadyAkhtar/token-registry/releases/download/v5.1.1/token-registry-5.1.1.tgz",
     "@tradetrust-tt/tradetrust": "^6.10.0",
     "@tradetrust-tt/tradetrust-utils": "^2.1.1",
     "@tradetrust-tt/tt-verify": "^9.3.0",
